@@ -1,0 +1,4 @@
+app_name = dg_stag_sod
+allow_warnings = false
+allow_unused = false
+allow_override = false
